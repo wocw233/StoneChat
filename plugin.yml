@@ -1,0 +1,7 @@
+name: stonechat
+
+main: Code.project.Main
+
+version: "1.1"
+
+
