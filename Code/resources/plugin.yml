@@ -1,0 +1,9 @@
+  #?
+name: StoneChat
+  #?
+main: Code.project.Main
+  #?
+version: "1.2"
+  #?
+
+
