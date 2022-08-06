@@ -1,0 +1,6 @@
+# 服务器名称
+servername:
+# 缓存文件路径
+path:
+# 检测间隔
+sleeptime: 1000
